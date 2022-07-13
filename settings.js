@@ -25,7 +25,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //Api Website\\
-global.APIs = {
+global.⁰APIs = {
 	zenz: 'https://zenzapis.xyz',
 }
 
@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6285290646632'] //ur owner number
-global.ownername = "Vanya Apsi" //ur owner name
+global.vcardowner = ['6288274474854'] //ur owner number
+global.ownername = "Adelenii" //ur owner name
 global.ytname = "YT: Gaada" //ur yt chanel name
 global.socialm = "GitHub: Gaada" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['6285290646632']
+global.owner = ['6288274474854']
 global.ownertag = '916909137213' //ur tag number
-global.botname = 'Vanya bot' //ur bot name
+global.botname = 'Botz Adl' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "💖" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Vanya Bot\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "Vanya Botz" //ur sticker watermark author
+global.packname = "Botz Adl\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "Botz Adl" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['6285290646632'] //ur premium numbers
+global.premium = ['6288274474854'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
